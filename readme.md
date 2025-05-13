@@ -1,14 +1,5 @@
 # Implementing LipNet
 
-**Github Repo**: https://github.com/Priyansh-013/LipNet.git
-
-## Dataset
-
-Link to dataset: https://iitgoffice-my.sharepoint.com/:f:/g/personal/p_awasthi_iitg_ac_in/EvVd13WoRolFur1O_dRqsTwBGKrn7bSSegUAJS21wdDYGQ?e=DLEvpx
-
-
-
-
 
 ## Install dependencies and libraries
 
