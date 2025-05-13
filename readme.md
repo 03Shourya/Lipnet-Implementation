@@ -1,6 +1,10 @@
 # Implementing LipNet
 
 
+## Original Paper: 
+https://doi.org/10.48550/arXiv.1611.01599
+
+
 ## Install dependencies and libraries
 
 
